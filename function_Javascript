@@ -1,0 +1,15 @@
+var number = 10;
+var a = 6;
+var b = 7;
+
+// 関数addを定義
+function add(num1,num2){
+  var number = num1 + num2;
+  return number;
+}
+
+// コンソールに表示してください
+console.log(add(a,b));
+console.log(number);
+
+
